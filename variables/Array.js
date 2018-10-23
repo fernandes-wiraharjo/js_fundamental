@@ -37,6 +37,7 @@ const products = [
 // })
 
 const isGreat = true //ini adalah boolean
+const arrayNew = [1,2,3,4]
 
 //For-Loop
 for(let i = 0; i < products.length; i++) {
