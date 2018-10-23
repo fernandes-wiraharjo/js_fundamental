@@ -36,6 +36,8 @@ const products = [
 //     console.log(dataObj.price)
 // })
 
+const isGreat = true //ini adalah boolean
+
 //For-Loop
 for(let i = 0; i < products.length; i++) {
     console.log(`${products[i].name}, ${products[i].price}, ${products[i].rating}`)
